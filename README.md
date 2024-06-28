@@ -8,5 +8,8 @@ Uma cadeia de Markov, ou Markov chain em inglês, é um modelo matemático que d
 x) Metas:<br>
 1- Adicionar uma biblioteca que tira print de uma imagem, transforma em sticker e depois salva em um pack de stickers pré definido pelo dono do grupo.<br>
 2- Adicionar uma biblioteca que traduz automaticamente as respostas da markov chain com a lingua que o dono do grupo pré definiu<br>
+3- Adicionar uma rede neural<br>
+
+
 
 
