@@ -1,5 +1,7 @@
 == Shine Kun Bot - Telegram Bot
 
+image::img/shinekunbot.png[]
+
 * Goals : 
 ** [*] - be simple and easy to read
 ** [x] - Implement a Markov chain
