@@ -28,3 +28,6 @@ def botApi():
     return bot
 
 bot = botApi()
+
+def get_bot_instance():
+    return bot
