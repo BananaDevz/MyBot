@@ -1,6 +1,6 @@
-## Shine Kun Bot - Telegram Bot
+## Shine Kun Bot - Telegram Bot <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img src ="https://github.com/ShineKunBot/MyBot/img/shinekunbot.png">
+<img src ="https://github.com/ShineKunBot/MyBot/blob/main/img/shinekunbot.png" alt="Shine Kun Bot Logo">
 
 1) Goals : 
 1- [*] - be simple and easy to read
