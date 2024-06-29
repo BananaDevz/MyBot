@@ -7,6 +7,7 @@ from .languageHandlers import user_languages  # Adicione o ponto aqui
 translator = Translator()
 bot = get_bot_instance()
 
+'''
 @bot.message_handler(commands=['github'])
 def send_github_link(message):
     github_url = "https://github.com/ShineKunBot/MyBot"
@@ -24,3 +25,21 @@ Hello, I'm Shine Kun bot! How are you? Choose one of the options for what you ne
 /setlang [language code] sets the preferred language.
     """
     bot.reply_to(message, texto)
+    '''
+
+@bot.message_handler(func= lambda message: True)
+def analisy(msg):
+    switch msg.text:
+        case "/github":
+            bot.reply_to(msg, "https://github.com/ShineKunBot/MyBot")
+        case "/kick", "/ban":
+            if  bot.get_chat_administrators(chat_id):
+                bot.reply_to(msg, "Voce não possui a permissão de administrador")
+            
+        case _:
+            bot.reply_to(msg, "text")
+
+
+
+
+
