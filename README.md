@@ -2,12 +2,12 @@
 
 <img src ="https://github.com/ShineKunBot/MyBot/blob/main/img/shinekunbot.png" alt="Shine Kun Bot Logo">
 
-1) Goals : 
-1- [*] - be simple and easy to read
-2- [x] - Implement a Markov chain
-3- [x] - Implement automatic translation of bot responses
-4- [ ] - Add a sticker creation library
-5- [ ] - implement a neural network
+1) Goals : <br>
+1- [✓] - be simple and easy to read <br>
+2- [✓] - Implement a Markov chain <br>
+3- [✓] - Implement automatic translation of bot responses <br>
+4- [X] - Add a sticker creation library <br>
+5- [X] - implement a neural network <br> 
 
 Shine Kun Bot is a multitasking bot for Telegram written in Python, I added a markov chain to play with! This bot automatically captures messages from the groups it is in to train the markov chain. The training data will not be made available for privacy reasons and the token will not be made available either. All codes are licensed under the gpl 3 open source license and there are some conditions for using the code, you can download and modify the code and use your modification, but you will have to make the modified code available on an Open Source platform!
 
