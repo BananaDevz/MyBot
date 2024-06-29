@@ -17,6 +17,3 @@ A Markov chain, is a mathematical model that describes a sequence of events wher
 
 This project exists thanks to all the people who contribute. 
 
-<a href="https://github.com/ShineKunBot/MyBot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ShineKunBot/MyBot&max=24" />
-</a>
